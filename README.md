@@ -1,3 +1,5 @@
+## You can use it with the `baggage` keyword. It is just for example
+
 Rquest :
 ```
 curl -H 'X-User-ID: user123' \
@@ -19,7 +21,3 @@ Add your auth token or pass by environment varibale :
 
 Change your endpoint for signoz :
 `ingest.us.staging.signoz.cloud:443`
-
-Disclaimer : 
-
-##` You can use it with the `baggage` keyword. It is just for example
